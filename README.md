@@ -8,8 +8,11 @@
    pip install jupyter
    pip install notebook
    ```
-3. run the command
+3. run this command and use the browser window
    ```txt
    jupyter notebook
    ```
-4. use the browser window
+
+### OR
+
+4. try running the first stage in the .ipynb file to establish/spin up a Jupyter Kernnel
